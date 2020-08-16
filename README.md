@@ -1,1 +1,1 @@
-# SimpleJSONConfig by 2DevsStudio
+# SpongeJSONConfig by 2DevsStudio
